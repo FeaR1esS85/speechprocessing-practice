@@ -1,0 +1,19 @@
+# 数据集与模型权重（体量大，不进仓库）
+data/
+datasets/
+checkpoints/
+pretrained_models/
+results/**/*.wav
+*.pth
+*.ckpt
+*.pt
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# 系统文件
+.DS_Store
